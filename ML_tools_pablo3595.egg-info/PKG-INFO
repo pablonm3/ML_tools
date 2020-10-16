@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: ML-tools-pablo3595
+Version: 0.0.1
+Summary: ML tools for small projects
+Home-page: https://github.com/pablonm3/ML_tools
+Author: Pablo N. Marino
+Author-email: pablo-n-m@hotmail.com
+License: UNKNOWN
+Description: Set of ML tools for small projects
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
